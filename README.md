@@ -1,5 +1,5 @@
 # interFast
-- An Fitbit app for intermittent fasting
+- A Fitbit app for tracking daily intermittent fasting progress
 - Developed in Fitbit SDK
 
 ### Clock Face
@@ -11,4 +11,4 @@
 
 
 ### Contributors
-Marrisa L | Alek T | Ralph S | Jon C
+Marrisa L | Alek T | Ralph S | Jon C | Penghe W 
