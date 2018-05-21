@@ -6,5 +6,5 @@ Developed in Fitbit SDK
 <img src="readme/clock_face.png" />
 
 ### Settings: Fasting Time&Duration
-<img src="readme/fast_setting_1.png" />
-<img src="readme/fast_setting_2.png" />
+<img src="readme/fast_setting_1.png" width="500"/>
+<img src="readme/fast_setting_2.png" width="500"/>
