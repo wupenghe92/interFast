@@ -8,3 +8,7 @@ Developed in Fitbit SDK
 ### Settings: Fasting Time&Duration
 <img src="readme/fast_setting_1.png" width="500"/>
 <img src="readme/fast_setting_2.png" width="500"/>
+
+
+### Contributors
+Marrisa L | Alek T | Ralph S | Jon C
