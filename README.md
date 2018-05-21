@@ -1,6 +1,6 @@
 # interFast
-An Fitbit app for intermittent fasting
-Developed in Fitbit SDK
+- An Fitbit app for intermittent fasting
+- Developed in Fitbit SDK
 
 ### Clock Face
 <img src="readme/clock_face.png" />
